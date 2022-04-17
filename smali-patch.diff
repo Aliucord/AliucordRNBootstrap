@@ -1,0 +1,8 @@
+1360a1361,1363
+>     invoke-static {p0, p3}, Lcom/aliucord/Bootstrapper;->loadModulesPatch(Ljava/lang/Object;Z)V
+> 
+>     .line 3
+1361a1365,1367
+> 
+>     .line 4
+>     invoke-static {p0, p3}, Lcom/aliucord/Bootstrapper;->loadAliucord(Ljava/lang/Object;Z)V
